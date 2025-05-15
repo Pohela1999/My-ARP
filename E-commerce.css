@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 120px;
+    width: auto;
+    background-color: #c39c5c;
+    display: flex;
+
+
+}
+.logo{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.logo img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.logoname h1{
+    color: rgb(15, 15, 16);
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.links{
+    margin-left: 750px;
+    padding: 40px;
+
+
+}
+.links a{
+    text-decoration-line: none;
+    font-size: 30px;
+    padding-right: 40px;
+    color: rgb(14, 15, 15);
+
+}
+.links a:hover{
+    color: aliceblue;
+}
+.background{
+    /* border: 1px solid; */
+    height: 600px;
+    width: auto;
+    margin-top: 10px;
+}
+.background img{
+    height: 100%;
+    width: 100%;
+}
+.main-box{
+    /* border: 1px solid; */
+    height: 400px;
+    width: 1500px;
+    display: flex;
+    margin-left: 65px;
+    margin-top: 150px;
+    border-radius: 70px 70px 20px 20px;
+}
+.box{
+    /* border: 1px solid; */
+    height: 380px;
+    width: 320px;
+    margin: 10px;
+    border-radius: 70px 70px 20px 20px;
+    margin-left: 35px;
+
+
+}
+.box img{
+    height: 80%;
+    width: 100%;
+    border-radius: 70px 70px 20px 20px;
+
+}
+.box h1{
+    align-items: center;
+    text-align: center;
+}
+.box p{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.footer{
+   background-color: #424543;
+   width: auto;
+   height: 330px;
+   margin-top: 200px;
+}
+.two-parts{
+   display: flex;
+   gap: 800px;
+   text-align: center;
+   align-items: center;
+   width: fit-content;
+   margin-left: 100px;
+   margin-top: 40px;
+
+}
+.Authors h1{
+    color: rgb(235, 240, 244);
+}
+.Authors p{
+    font-size: 20px;
+    color: aliceblue;
+}
+.form{
+    font-size: 20px;
+    color: aliceblue;
+
+}
+.form input{
+    height: 25px;
+    width: 200px;
+}
+.icon{
+    margin-left: 700px;
+    margin-top: 10px;
+    
+
+
+}
+.icon img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+

@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 120px;
+    width: auto;
+    background-color: #c39c5c;
+    display: flex;
+
+
+}
+.logo{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.logo img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.logoname h1{
+    color: rgb(15, 15, 16);
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.links{
+    margin-left: 750px;
+    padding: 40px;
+
+
+}
+.links a{
+    text-decoration-line: none;
+    font-size: 30px;
+    padding-right: 40px;
+    color: rgb(14, 15, 15);
+
+}
+.links a:hover{
+    color: aliceblue;
+}
+/* Background */
+.images{
+    /* border: 1px solid; */
+    width: auto;
+    height: 600px;
+    margin: 10px;
+    margin-top: 20px;
+}
+.images img{
+    height: 100%;
+    width: 100%;
+}
+
+/* spoken */
+.Box{
+    height: 60px;
+    width: 1200px;
+    /* border: 1px solid; */
+    margin-left: 200px;
+    margin-top: 80px;
+    background-color: rgb(100, 229, 122);
+    border-radius: 40px 40px 40px 40px;
+}
+.Box h1{
+    align-items: center;
+    text-align: center;
+
+}
+/* section */
+.main-box{
+    border: 1px solid ;
+    height: 470px;
+    width: 1400px;
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    
+}
+.box1{
+    /* border: 1px solid ; */
+    height: 430px;
+    width: 320px;
+    margin: 20px;
+    border-radius: 80px 80px 0px 0px;
+   
+}
+/* button{
+    height: 40px;
+    width: 120px;
+    margin-top: 500px;
+   
+} */
+.box1 img{
+    height: 80%;
+    width: 100%;
+    border-radius: 80px 80px 0px 0px;
+}
+.box1 h1{
+    align-items: center;
+    text-align: center;
+    color: rgb(6, 6, 111);
+}
+.box1 p{
+    font-size: 20px;
+}
+
+.footer{
+   background-color: #1c1c1a;
+   width: auto;
+   height: 330px;
+   margin-top: 100px;
+}
+.two-parts{
+   display: flex;
+   gap: 800px;
+   text-align: center;
+   align-items: center;
+   width: fit-content;
+   margin-left: 100px;
+   margin-top: 40px;
+
+}
+.Authors h1{
+    color: white;
+}
+.Authors p{
+    font-size: 20px;
+    color: white;
+}
+.form{
+    font-size: 20px;
+    color: white;
+
+}
+.form input{
+    height: 25px;
+    width: 200px;
+}
+.icon{
+    margin-left: 650px;
+    margin-top: 10px;
+    
+
+
+}
+.icon img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
